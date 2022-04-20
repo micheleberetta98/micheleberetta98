@@ -4,4 +4,4 @@ I have about 4 years of experience as a front-end developer and as a mobile app 
 
 I love learning and functional programming, especially in Haskell.
 
-[Website here](https://micheleberetta98.github.io).
+[Website here](https://berettamichele.com).
